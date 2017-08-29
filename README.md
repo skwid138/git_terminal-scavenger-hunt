@@ -49,5 +49,5 @@ Look into a few more git commands listed below and see if you can figure out wha
 5. `git pull` vs `git clone` (which you have used)
 6. `git stash`
 
-## JavaScript Practice Homework
-Find an [Edabit](https://edabit.com/explore) problem you haven't solved. Solve it in your script file, commit these changes with git and push them to GitHub. Next add a simple README.md to the project and use [Markdown](https://guides.github.com/features/mastering-markdown/) to document what this repo is about. 
+## JavaScript Practice (Homework Tonight)
+If you get through all the above, start on tonight's homework. Here is a preview: _Find an [Edabit](https://edabit.com/explore) problem you haven't solved. Solve it in your script file, commit these changes with git and push them to GitHub._
